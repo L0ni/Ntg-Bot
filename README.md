@@ -47,3 +47,7 @@
 
 И скачиваете json файл и назовите его credentials.json (его закидываете в проект в папку Bot вместо файла, который также называется: credentials.json (файл credentials.json который изначально есть в проекте удалите))
 ![image](https://github.com/user-attachments/assets/45a4549a-0b95-4d2c-8e18-06a3ee3421e4)
+
+
+
+это вроде все. если я что-то не забыл сказать.
